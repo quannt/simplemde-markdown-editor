@@ -1,5 +1,5 @@
 /**
- * simplemde v1.12
+ * simplemde v1.12.0
  * Copyright 
  * @link 
  * @license MIT
